@@ -1,0 +1,3 @@
+Texto de prueba de la semana 1
+Texto extra para probar comandos de nano
+Otro texto de prueba
